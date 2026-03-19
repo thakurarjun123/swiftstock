@@ -22,4 +22,4 @@ SwiftStock is a modern web application designed for retail businesses to monitor
    `npm install`
 3. Run the development server:
    `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000) to view the app.
+
